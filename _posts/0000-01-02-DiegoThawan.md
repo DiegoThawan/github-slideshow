@@ -2,5 +2,5 @@
 layout: slide
 title: "Aight im confused"
 ---
-Your text
+Smth new
 Idk press left for left
